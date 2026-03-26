@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "HUNTER’S DREAM",
+  "base_artist": "Savage Ga$p",
+  "createdAt": "2026-03-26T15:41:08.952856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Hunter's Dream",
+      "artist": "Bloedmaan",
+      "has_synced": false,
+      "path": "select/01_The_Hunter's_Dream_Bloedmaan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HUNTER'S DREAM (feat. Istasha)",
+      "artist": "Savage Ga$p",
+      "has_synced": true,
+      "path": "select/02_HUNTER'S_DREAM_(feat._Istasha)_Savage_Ga$p.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HUNTER’s DREAM",
+      "artist": "Savage Ga$p",
+      "has_synced": true,
+      "path": "select/03_HUNTER’s_DREAM_Savage_Ga$p.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HUNTER’S DREAM (con Istasha)",
+      "artist": "Savage Ga$p",
+      "has_synced": true,
+      "path": "select/04_HUNTER’S_DREAM_(con_Istasha)_Savage_Ga$p.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hunter's Lullaby",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/05_Hunter's_Lullaby_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hunters Of The Night",
+      "artist": "Mr. Mister",
+      "has_synced": false,
+      "path": "select/06_Hunters_Of_The_Night_Mr._Mister.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hunter's Moon",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/07_Hunter's_Moon_Delain.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hunter's Season",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/08_Hunter's_Season_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hunters",
+      "artist": "Liv Kristine",
+      "has_synced": true,
+      "path": "select/09_Hunters_Liv_Kristine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Karma Hunters",
+      "artist": "The Pinker Tones",
+      "has_synced": false,
+      "path": "select/10_Karma_Hunters_The_Pinker_Tones.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Caça e Caçador (Hunters and Prey Portuguese version)",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/11_Caça_e_Caçador_(Hunters_and_Prey_Portuguese_version)_Angra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hunter's Moon",
+      "artist": "Imagika",
+      "has_synced": false,
+      "path": "select/12_Hunter's_Moon_Imagika.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hunters and Prey",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/13_Hunters_and_Prey_Angra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hunters Of The Sky",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/14_Hunters_Of_The_Sky_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hunters of the Sky",
+      "artist": "Mastodon",
+      "has_synced": false,
+      "path": "select/15_Hunters_of_the_Sky_Mastodon.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shots - The Funk Hunters Remix",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/16_Shots_-_The_Funk_Hunters_Remix_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shots (The Funk Hunters Remix)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/17_Shots_(The_Funk_Hunters_Remix)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Night of Hunters",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/18_Night_of_Hunters_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hunters And The Wolves",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/19_Hunters_And_The_Wolves_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "March Of The Witch Hunters - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "artist": "Christopher Fitzgerald",
+      "has_synced": true,
+      "path": "select/20_March_Of_The_Witch_Hunters_-_From__Wicked__Original_Broadway_Cast_Recording_2003_Christopher_Fitzgerald.lrc"
+    }
+  ]
+}
